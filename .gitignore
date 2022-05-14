@@ -1,0 +1,27 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.*
+!/.gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# compiled python files
+**/*.pyc
+
+**/~*
+**/logs/*
+**/figures/*
+**/figs/*
+**/gifs/*
+**/tensorboards/*
+**/outputs/*
+**/multirun/*
