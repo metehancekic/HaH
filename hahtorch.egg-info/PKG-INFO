@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: hahtorch
-Version: 0.0.1
+Version: 0.0.2
 Summary: Hebbian/Anti-Hebbian Learning for Pytorch
 Home-page: https://github.com/metehancekic/HaH.git
 Author: Metehan Cekic
 Author-email: metehancekic@ucsb.edu
 License: MIT
-Download-URL: https://github.com/metehancekic/HaH/archive/v_001.tar.gz
+Download-URL: https://github.com/metehancekic/HaH/archive/v_002.tar.gz
 Description: ![alt text][logo]
         
         [logo]: https://github.com/metehancekic/HaH/blob/main/figs/hahblock.png
