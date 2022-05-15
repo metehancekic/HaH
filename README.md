@@ -2,6 +2,8 @@
 
 [logo]: https://github.com/metehancekic/HaH/blob/main/figs/hahblock.png
 
+**Figure 1**: HaH block for image classification DNNs. 
+
 # Hebbian/Anti-Hebbian Learning for Pytorch
 
 If you have questions you can contact metehancekic [at] ucsb [dot] edu
@@ -36,4 +38,4 @@ We used CIFAR-10 image classification to show the effectiveness of our module. W
 
 [hahvgg]: https://github.com/metehancekic/HaH/blob/main/figs/hahvgg.png
 
-
+**Figure 2**: HaH VGG16, our proposed architecture for HaH training.
