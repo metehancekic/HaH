@@ -21,7 +21,7 @@ def classifier_params_string(model_name: str, cfg: DictConfig):
 
 def classifier_ckpt_namer(model_name: str, cfg: DictConfig):
 
-    file_path = cfg.directory + f"checkpoints/{cfg.dataset.name}/"
+    file_path = cfg.directory + f"tests/checkpoints/{cfg.dataset.name}/"
     os.makedirs(file_path, exist_ok=True)
 
     file_path += classifier_params_string(model_name, cfg)
@@ -33,7 +33,7 @@ def classifier_ckpt_namer(model_name: str, cfg: DictConfig):
 
 def classifier_log_namer(model_name: str, cfg: DictConfig):
 
-    file_path = cfg.directory + f"logs/{cfg.dataset.name}/"
+    file_path = cfg.directory + f"tests/logs/{cfg.dataset.name}/"
 
     os.makedirs(file_path, exist_ok=True)
 
