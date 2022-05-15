@@ -26,7 +26,9 @@ Or one can clone the repository.
 git clone git@github.com:metehancekic/HaH.git
 ```
 
-## Experiments on CIFAR10 Image Classification with VGG16 model as Backbone
+## Experiments 
+
+# CIFAR10 Image Classification with VGG16 model as Backbone
 
 
 
