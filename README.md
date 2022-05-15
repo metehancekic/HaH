@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://github.com/metehancekic/HaH/blob/master/figs/hahblock.png
+[logo]: https://github.com/metehancekic/HaH/figs/hahblock.png
 
 # Hebbian/Anti-Hebbian Learning for Pytorch
 
