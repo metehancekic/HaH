@@ -19,7 +19,7 @@ python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps hahto
 Or one can clone the repository.
 
 ```bash
-python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps hahtorch
+git clone git@github.com:metehancekic/HaH.git
 ```
 
 ## Experiments on CIFAR10 Image Classification with VGG16 model as Backbone
