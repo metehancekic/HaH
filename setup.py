@@ -24,7 +24,7 @@ setup(
     download_url='https://github.com/metehancekic/HaH/archive/' + release_tag + '.tar.gz',
     keywords=['Hebbian', 'Anti-Hebbian', 'Pytorch', 'Neuro-inspired'],
     install_requires=[
-        'pytorch',
+        'torch',
         'numpy',
         ],
     classifiers=[
