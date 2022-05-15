@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://github.com/metehancekic/HaH/blob/master/figs/hahblock.pdf
+
 # Hebbian/Anti-Hebbian Learning for Pytorch
 
 If you have questions you can contact metehancekic [at] ucsb [dot] edu
