@@ -20,7 +20,7 @@ Install the dependencies
 We have a pypi module which can be installed simply with following command:
 
 ```bash
-python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps hahtorch
+pip install hahtorch
 ```
 Or one can clone the repository.
 
