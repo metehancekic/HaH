@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: hahtorch
-Version: 0.0.3
+Version: 0.0.4
 Summary: Hebbian/Anti-Hebbian Learning for Pytorch
 Home-page: https://github.com/metehancekic/HaH.git
 Author: Metehan Cekic
 Author-email: metehancekic@ucsb.edu
 License: MIT
-Download-URL: https://github.com/metehancekic/HaH/archive/v_003.tar.gz
+Download-URL: https://github.com/metehancekic/HaH/archive/v_004.tar.gz
 Description: ![alt text][logo]
         
         [logo]: https://github.com/metehancekic/HaH/blob/main/figs/hahblock.png
@@ -29,7 +29,7 @@ Description: ![alt text][logo]
         We have a pypi module which can be installed simply with following command:
         
         ```bash
-        python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps hahtorch
+        pip install hahtorch
         ```
         Or one can clone the repository.
         
@@ -51,12 +51,12 @@ Description: ![alt text][logo]
         
 Keywords: Hebbian,Anti-Hebbian,Pytorch,Neuro-inspired
 Platform: UNKNOWN
-Classifier: Development Status :: 3 - Alpha
+Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.4
 Classifier: Programming Language :: Python :: 3.5
 Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
 Description-Content-Type: text/markdown
